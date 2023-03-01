@@ -1,1 +1,1 @@
-# ElectroPea.github.io
+# electropea.github.io
